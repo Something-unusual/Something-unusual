@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Boris Zatulovskiy aka @Something-unusual
+- 👀 I’m interested in Python development & auto-testing
+- 🌱 I’m currently learning test automation with Selenium & Python
+- 💞️ I’m looking to collaborate with anyone
+- 📫 How to reach me:
+- phone: 89025818609 (also on Telegram & WhatsApp)
+- e-mail: zatulovskiy@mail.ru
+- 
